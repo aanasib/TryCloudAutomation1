@@ -21,7 +21,7 @@ TryCloudLoginPages tryCloudLoginPages = new TryCloudLoginPages();
     tryCloudLoginPages.userNameField.sendKeys("User1");
 
     }
-    @When("user enters valid password")
+    @When("user enters validd password")
     public void user_enters_valid_password() {
         tryCloudLoginPages.passwordField.sendKeys("Userpass123");
 
