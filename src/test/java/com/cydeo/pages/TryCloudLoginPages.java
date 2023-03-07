@@ -18,7 +18,7 @@ public class TryCloudLoginPages {
     public WebElement passwordField;
 
     @FindBy(id = "submit-form")
-    public WebElement LoginBtn;
+    public WebElement LoginBtn; // test mary rice / mary rice again // change 3
 
 
 
